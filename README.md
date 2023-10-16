@@ -5,6 +5,10 @@
 
 Function that returns a line read from a file descriptor.
 
+<p align="center">
+<img width="450" alt="Screen Shot 2023-03-20 at 1 26 12 PM" src="https://github.com/hecikmc/get_next_line-42cursus/assets/121127625/87ef3beb-955c-4447-89d5-6d6ad95078c1">
+</p>
+
 <img width="1192" alt="Screen Shot 2023-03-20 at 1 26 12 PM" src="https://user-images.githubusercontent.com/121127625/226339652-9d922240-dde5-4038-8dcb-4fee6e7113a3.png">
 
 * Project developed in C language.
